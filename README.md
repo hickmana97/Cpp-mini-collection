@@ -5,6 +5,8 @@
 
   <summary>Full link list found below: </summary>
 
+-[Obligitory FizzBuzz](https://github.com/hickmana97/Cpp-mini-collection/blob/main/cppfileshere/FizzBuzz.cpp)
+
 -[Leap year checker](https://github.com/hickmana97/Cpp-mini-collection/blob/main/cppfileshere/LeapYearChecker.cpp)
 
 -[Magic 8-Ball](https://github.com/hickmana97/Cpp-mini-collection/blob/main/cppfileshere/Magic8Ball.cpp)
