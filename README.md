@@ -19,4 +19,6 @@
 
 -[Questionnaire to find out your Hogwarts house](https://github.com/hickmana97/Cpp-mini-collection/blob/main/cppfileshere/SortingHat.cpp)
 
+-[Tic-Tac-Toe Minigame](https://github.com/hickmana97/Cpp-mini-collection/tree/main/cppfileshere/Tic-Tac-Toe)
+
 </details>
